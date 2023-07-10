@@ -51,7 +51,7 @@ export default function Sidebar() {
               <div className="icon">
                 <FiSettings />
               </div>
-              <span  className="sidebarname">Components</span>
+              <span  className="sidebarname">Compo's</span>
             </div></Link>
             {/* Utilites */}
             
